@@ -14,49 +14,49 @@
 
 <div align="center">
 <h1 align="left">💻 Tech Stack:</h1>
-  <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="65" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="65" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="65" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="65" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="65" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="65" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="65" alt="socketio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="65" alt="sequelize logo"  />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="60" alt="sequelize logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="65" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="65" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="65" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="65" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="65" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="65" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="65" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="65" alt="nginx logo"  />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="65" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="65" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="65" alt="vercel logo"  />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="65" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
 
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo"  />
