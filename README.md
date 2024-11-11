@@ -70,10 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/hamza-nafasat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="60" alt="linkedin logo"  />
@@ -83,4 +79,11 @@
   </a>
 </div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
+</picture>
 ###
