@@ -1,16 +1,19 @@
 <br clear="both">
 <h2 align="left">Hello, I'm Hamza Nafasat, a Full Stack Developer.</h2>
+
 <img align="right" src="https://profile-counter.glitch.me/hamza-nafasat/count.svg?"  />
-
-###
-
 <p align="left">👨🏼‍💻 working as a web developer since 2023.<br>🛜 currently i am working in Tetra in tech as a Senior MERN stack developer.</p>
-
-###
+  <a href="https://www.linkedin.com/in/hamza-nafasat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/fearless_surviver" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="20" alt="instagram logo"  />
+  </a>
 
 <br clear="both">
 
 <div align="center">
+<h1 align="left">💻 Tech Stack:</h1>
   <img src="https://skillicons.dev/icons?i=html" height="65" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="65" alt="tailwindcss logo"  />
@@ -66,15 +69,6 @@
 </div>
 
 ###
-
-<div align="center" >
-  <a href="https://www.linkedin.com/in/hamza-nafasat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/fearless_surviver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="50" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
 
