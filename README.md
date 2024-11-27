@@ -1,5 +1,5 @@
 <br clear="both">
-<h2 align="left">Hello, I'm Hamza Nafasat, a Full Stack Developer.</h2>
+<h2 align="left">Hello, I'm Hamza Nafasat, a MERN Stack Developer.</h2>
 
 <img align="right" src="https://profile-counter.glitch.me/hamza-nafasat/count.svg?"  />
 <p align="left">👨🏼‍💻 working as a web developer since 2023.<br>🛜 currently i am working in Tetra in tech as a Senior MERN stack developer.</p>
