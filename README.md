@@ -20,7 +20,7 @@
 const hamza: Developer = {
   name: "Hamza Nafasat",
   role: "Senior MERN Stack Developer",
-  company: "Tetra in Tech",
+  company: "Devno sol",
   experience: "3+ years",
   location: "Pakistan 🇵🇰",
   passion: ["Clean Code", "Innovation", "Problem Solving"],
