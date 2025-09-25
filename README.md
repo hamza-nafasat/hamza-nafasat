@@ -4,11 +4,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=280&section=header&text=HAMZA%20NAFASAT&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Senior%20MERN%20Stack%20Developer%20|%20Full%20Stack%20Engineer&descSize=24&descAlignY=55&descAlign=50" />
   
   <!-- Animated typing effect with enhanced styling -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=🚀+Building+Scalable+Web+Applications;💡+Turning+Ideas+into+Digital+Reality;🎯+2%2B+Years+of+Professional+Experience;⚡+Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
-  
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=500&color=00FFAA&center=true&vCenter=true&width=900&lines=🚀+Building+Scalable+Web+Applications;💡+Turning+Ideas+into+Digital+Reality;🎯+3%2B+Years+of+Professional+Experience;⚡+Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
+
   <!-- Animated divider -->
-  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
@@ -19,7 +20,7 @@
 const hamza: Developer = {
   name: "Hamza Nafasat",
   role: "Senior MERN Stack Developer",
-  company: "Devno sol",
+  company: "Tetra in Tech",
   experience: "3+ years",
   location: "Pakistan 🇵🇰",
   passion: ["Clean Code", "Innovation", "Problem Solving"],
@@ -70,18 +71,19 @@ const hamza: Developer = {
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-007ACC?style=for-the-badge&logo=stripe&logoColor=white)
 
 </div>
 
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-### 🐍 **Watch My Contribution Snake**
+<!-- ### 🐍 **Watch My Contribution Snake** -->
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
+<div align="center" >
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake-dark.svg"  width='100%'/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" width='100%' />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" width='100%' />
   </picture>
 </div>
 
