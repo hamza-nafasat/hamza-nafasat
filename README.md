@@ -86,7 +86,6 @@ const hamza: Developer = {
     <img alt="github-snake" src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" width='100%' />
   </picture>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=20&fontAlignY=70&fontColor=A855F7&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=20&fontAlignY=70&fontColor=FFFFFF&animation=twinkling" />
 
 </div>
