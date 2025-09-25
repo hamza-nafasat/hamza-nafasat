@@ -1,82 +1,90 @@
-<br clear="both">
-<h2 align="left">Hello, I'm Hamza Nafasat, a MERN Stack Developer.</h2>
-
-<p align="left">👨🏼‍💻 working as a web developer since 2023.<br>🛜 currently i am working in Tetra in tech as a Senior MERN stack developer.</p>
-  <a href="https://www.linkedin.com/in/hamza-nafasat" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/fearless_surviver" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="20" alt="instagram logo"  />
-  </a>
-
-<br clear="both">
-
 <div align="center">
-<h1 align="left">💻 Tech Stack:</h1>
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="8" />
- <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redux" height="60" alt="redux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=sequelize" height="60" alt="sequelize logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="redis logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
-  <img width="8" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="8" />
-
-  <div>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="50" alt="mongodb logo"  />
-    <img width="8" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="50" alt="express logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="50" alt="react logo"  />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="50" alt="nodejs logo"  />
-  </div>
+  
+  <!-- Enhanced Animated Wave with Gradient -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=280&section=header&text=HAMZA%20NAFASAT&fontSize=68&fontAlignY=35&fontColor=fff&animation=fadeIn&desc=Senior%20MERN%20Stack%20Developer%20|%20Full%20Stack%20Engineer&descSize=24&descAlignY=55&descAlign=50" />
+  
+  <!-- Animated typing effect with enhanced styling -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=900&lines=🚀+Building+Scalable+Web+Applications;💡+Turning+Ideas+into+Digital+Reality;🎯+2%2B+Years+of+Professional+Experience;⚡+Passionate+About+Clean+Code+%26+Innovation" alt="Typing SVG" />
+  
+  <!-- Animated divider -->
+  <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+  
 </div>
 
-###
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> **About Me**
 
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
+```typescript
+const hamza: Developer = {
+  name: "Hamza Nafasat",
+  role: "Senior MERN Stack Developer",
+  company: "Devno sol",
+  experience: "3+ years",
+  location: "Pakistan 🇵🇰",
+  passion: ["Clean Code", "Innovation", "Problem Solving"],
+  currentFocus: "Building scalable web applications",
+  lifePhilosophy: "Code with purpose, build with passion ✨",
+};
+```
 
-##
+- 🌟 Passionate about creating **user-centric applications**
+- 🎯 Always exploring the latest in **web technologies**
+- 💡 Love turning complex problems into simple solutions
+- 🚀 Building the future, one commit at a time
+- 📚 Continuous learner with a growth mindset
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
-</picture>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Arsenal**
+
+<div align="center">
+  
+  <!-- Professional Skills Badges Section -->
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+  ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+
+</div>
+
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+
+### 🐍 **Watch My Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hamza-nafasat/hamza-nafasat/output/github-snake.svg" />
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26,27,28,29&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=20&fontAlignY=70&fontColor=A855F7&animation=twinkling" />
+
+</div>
