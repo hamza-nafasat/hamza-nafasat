@@ -1,7 +1,6 @@
 <br clear="both">
 <h2 align="left">Hello, I'm Hamza Nafasat, a MERN Stack Developer.</h2>
 
-<img align="right" src="https://profile-counter.glitch.me/hamza-nafasat/count.svg?"  />
 <p align="left">👨🏼‍💻 working as a web developer since 2023.<br>🛜 currently i am working in Tetra in tech as a Senior MERN stack developer.</p>
   <a href="https://www.linkedin.com/in/hamza-nafasat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="20" alt="linkedin logo"  />
