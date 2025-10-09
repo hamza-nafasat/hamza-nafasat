@@ -40,7 +40,7 @@ const hamza: Developer = {
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Tech Arsenal**
 
-<div align="center">
+<div align="center" style="pointer-events: none;">
   
   <!-- Professional Skills Badges Section -->
   
