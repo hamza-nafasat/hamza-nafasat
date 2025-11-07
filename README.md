@@ -42,10 +42,9 @@ const hamza: Developer = {
 
   <!-- Professional Skills Badges Section -->
 
-<p align="center">
-
 ### 🎨 <u>**Frontend**</u>
 
+<p >
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white&style=for-the-badge" />
@@ -57,10 +56,9 @@ const hamza: Developer = {
 
 ---
 
-<p align="center">
-
 ### 🏗️ <u>**Backend**</u>
 
+<p >
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" />
@@ -71,10 +69,9 @@ const hamza: Developer = {
 
 ---
 
-<p align="center">
-
 ### 🔐 <u>**Authentication & Payments**</u>
 
+<p >
   <img src="https://img.shields.io/badge/Clerk-000000?logo=clerk&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/BetterAuth-0A0A0A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white&style=for-the-badge" />
@@ -86,25 +83,24 @@ const hamza: Developer = {
 
 ---
 
-<p align="center">
-
 ### 💾 <u>**Databases & ORM**</u>
 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge" />
+<p >
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Convex-000000?style=for-the-badge" />
+
 </p>
 
 ---
 
-<p align="center">
-
 ### 🌐 <u>**Deployment & DevOps**</u>
 
+<p>
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
@@ -116,10 +112,9 @@ const hamza: Developer = {
 
 ---
 
-<p align="center">
-
 ### 🤖 <u>**AI & Languages**</u>
 
+<p >
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?logo=google&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude-5A4FB6?logo=anthropic&logoColor=white&style=for-the-badge" />
